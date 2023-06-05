@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "\"48 Hours\" schedule: Live, DVR, and on demand",
+            "description": "True crime. Social justice. Impact. To miss it would be a crime.",
+            "url": "https://www.cbsnews.com/48-hours/episode-schedule/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/22/23f1bcdf-10e4-46e5-914c-8b0bfca1a801/thumbnail/1200x630/029a84c9bdee7c9364620d11e3c20150/48hrs-thumbprint.jpg",
+            "publishedAt": "2023-05-14T06:53:00+00:00",
+            "content": "\"48 Hours\" is the one to watch Saturday nights at 10/9c on CBS and streaming on Paramount+.\r\nCan't watch us live? Set your DVR!\r\nWatch more full episodes of \"48 Hours\" on Pluto TV.  \r\nYou'll also fin… [+11509 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jonathan Vigliotti",
+            "title": "Lori Vallow Daybell guilty of unimaginable crimes",
+            "description": "A mountain of evidence leads to murder convictions in the Idaho \"doomsday mom\" case.",
+            "url": "https://www.cbsnews.com/news/lori-vallow-daybell-guilty-idaho-doomsday-mom-unimaginable-crimes-48-hours/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/13/29e58740-afd3-40b0-9fb8-3c59a6b495a2/thumbnail/1200x630/1dfa482526e70fa9257a69e54c66a553/daybell-lori-tylee.jpg",
+            "publishedAt": "2023-05-14T06:43:00+00:00",
+            "content": "The crimes are unimaginable. Lori Vallow Daybell stood trial for the murder of her own children 16-year-old Tylee Ryan and 7-year-old Joshua \"JJ\" Vallow. She was also accused of killing Tammy Daybell… [+33468 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBS News",
+            "title": "Lori Vallow Daybell guilty of unimaginable crimes - CBS News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbG9yaS12YWxsb3ctZGF5YmVsbC1ndWlsdHktaWRhaG8tZG9vbXNkYXktbW9tLXVuaW1hZ2luYWJsZS1jcmltZXMtNDgtaG91cnMv0gFsaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvbG9yaS12YWxsb3ctZGF5YmVsbC1ndWlsdHktaWRhaG8tZG9vbXNkYXktbW9tLXVuaW1hZ2luYWJsZS1jcmltZXMtNDgtaG91cnMv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-14T06:43:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Carla Mascarenhas",
+            "title": "Disturbing Aussie crime rocks China",
+            "description": "<p>It&rsquo;s a terrifying crime that is cutting through the heart of Australia&rsquo;s international students community.</p>",
+            "url": "https://www.news.com.au/finance/virtual-kidnapping-scams-disturbing-aussie-crime-rocks-chinese-international-students/news-story/9f50ee4a2feb2d4095a3b22cd45e2e5c",
+            "urlToImage": "https://content.api.news/v3/images/bin/473bee062bbcd712ecd78f870f728728",
+            "publishedAt": "2023-05-14T01:14:00Z",
+            "content": "It’s a terrifying crime that is cutting through the heart of Australia’s international students community.\r\n“Virtual kidnapping” scams targeting international Chinese students in Sydney are on the ri… [+3450 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "La Repubblica",
+            "title": "Zelensky sbarca a Roma: “Le vostre armi ci salvano. Ora la Crimea, poi la pace”",
+            "description": "In una città blindata il leader al Quirinale e a Palazzo Chigi per chiedere ancora sostegno: “Non parlo con Putin. Lo indebolirò con la con…",
+            "url": "https://www.repubblica.it/politica/2023/05/14/news/zelensky_a_roma_incontro-399961270/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/05/13/212920331-e518b70a-368b-4dfd-9131-7e7bd922c3f4.jpg",
+            "publishedAt": "2023-05-13T23:05:13Z",
+            "content": "ROMA - Neanche il cielo plumbeo e una pioggerella fastidiosa riescono a rovinare la visita di Volodymyr Zelensky a Roma, la prima da quando la Russia ha invaso il suo Paese. Il presidente con la felp… [+155 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "La Repubblica",
+            "title": "Zelensky: 'Se con la controffensiva arriviamo in Crimea, il regime russo si divide'",
+            "description": "“La soluzione è la nostra controffensiva perché quando saremo al confine con la Crimea il sostegno alla Russia diminuirà. Manca poco'. Lo ha detto il presidente ucraino Volodymyr Zelensky intervistato dal direttore di Repubblica Maurizio Molinari a Porta a Po…",
+            "url": "https://video.repubblica.it/dossier/crisi_in_ucraina_la_russia_il_donbass_i_video/zelensky-se-con-la-controffensiva-arriviamo-in-crimea-il-regime-russo-si-divide/444537/445501",
+            "urlToImage": "https://www.repstatic.it/video/photo/2023/05/13/896818/896818-thumb-full-720-molinari_divisioni_in_russia_1_.jpg",
+            "publishedAt": "2023-05-13T21:44:40Z",
+            "content": "&lt;iframe class=\"rep-video-embed\" src=\"https://video.repubblica.it/embed/dossier/crisi_in_ucraina_la_russia_il_donbass_i_video/zelensky-se-con-la-controffensiva-arriviamo-in-crimea-il-regime-russo-s… [+294 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "YouTuber who crashed plane admits he did it for money and views",
+            "description": "The maximum sentence for YouTuber's admitted crimes is 20 years.",
+            "url": "https://arstechnica.com/tech-policy/2023/05/youtuber-who-crashed-plane-admits-he-did-it-for-money-and-views/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/Trevor-Jacob-22I-Crashed-My-Airplane22-760x380.png",
+            "publishedAt": "2023-05-12T19:39:59+00:00",
+            "content": "Enlarge/ Screenshot from Trevor Jacob's YouTube video \"I Crashed My Airplane.\"\r\n226 with \r\nA YouTuber who deliberately crashed a plane to \"gain notoriety and make money\" has agreed to plead guilty to… [+3101 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Opinion: Every few seconds, a girl’s genitals are cut in Africa. I was one of those girls | CNN",
+            "description": "Leyla Hussein recounts the horrifying moment when, as a seven-year-old girl in Somalia, she experienced Female Genital Mutilation (FGM). Now a therapist, Hussein helps other survivors – and has advice on how to end this heinous crime.",
+            "url": "https://www.cnn.com/2023/05/12/opinions/female-genital-mutilation-african-girls-hussein/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230511060105-01-fgm-protest-poster-012307-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-12T08:05:26.005Z",
+            "content": "Editors Note: Leyla Hussein is a psychotherapist specialising in supporters of sexual abuse. She is the founder of The Dahlia Project, the UKs first specialist therapeutic service for female genital … [+8473 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Simon Shuster/Kyiv",
+            "title": "Inside Ukraine's Push to Try Putin for War Crimes",
+            "description": "As the war drags on and evidence of atrocities mount, Ukraine seeks international justice.",
+            "url": "http://time.com/6266991/ukraine-push-putin-war-crimes/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/03/war-crimes-tribunal-putin-ukraine-05.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2023-03-30T11:00:46Z",
+            "content": "In the office of Andriy Smyrnov, the deputy head of Ukraine’s presidential administration, the wanted posters spread across the desk serve as a kind of mission statement. They show the faces of five … [+10212 chars]"
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
