@@ -2,6 +2,8 @@
 
 This is a React.js website that fetches and displays the latest news from the NewsAPI. The website is designed to provide categorized news with different endpoints using a router. It continuously fetches and updates the news to ensure users have access to the most recent information.
 
+![Screenshot (163)](https://github.com/Jashank2003/newsapp/assets/91665950/082647f1-b28c-4727-9d91-8d6302641213)
+
 ## Features
 
 - Categorized news: The website provides different categories such as technology, sports, entertainment, and more, allowing users to easily navigate and browse news articles of their choice.
